@@ -1,0 +1,84 @@
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = git@github.com:tpope/vim-commentary
+[submodule "Jenkinsfile-vim-syntax"]
+	path = Jenkinsfile-vim-syntax
+	url = git@github.com:martinda/Jenkinsfile-vim-syntax
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = git@github.com:mattn/emmet-vim
+[submodule "gruvbox"]
+	path = gruvbox
+	url = git@github.com:morhetz/gruvbox
+[submodule "hardmode"]
+	path = hardmode
+	url = git@github.com:wikitopian/hardmode
+[submodule "nerdtree"]
+	path = nerdtree
+	url = git@github.com:scrooloose/nerdtree
+[submodule "quicktex"]
+	path = quicktex
+	url = git@github.com:jwfh/quicktex
+[submodule "rust.vim"]
+	path = rust.vim
+	url = git@github.com:rust-lang/rust.vim
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized
+[submodule "supertab"]
+	path = supertab
+	url = git@github.com:ervandew/supertab
+[submodule "syntastic"]
+	path = syntastic
+	url = git@github.com:vim-syntastic/syntastic
+[submodule "typescript-vim"]
+	path = typescript-vim
+	url = git@github.com:leafgarland/typescript-vim
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:vim-airline/vim-airline
+[submodule "vim-fish"]
+	path = vim-fish
+	url = git@github.com:dag/vim-fish
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git@github.com:tpope/vim-fugitive
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = git@github.com:pangloss/vim-javascript
+[submodule "vim-json"]
+	path = vim-json
+	url = git@github.com:elzr/vim-json
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = git@github.com:mxw/vim-jsx
+[submodule "vim-latex"]
+	path = vim-latex
+	url = git@github.com:vim-latex/vim-latex
+[submodule "vim-numbertoggle"]
+	path = vim-numbertoggle
+	url = git@github.com:jeffkreeftmeijer/vim-numbertoggle
+[submodule "vim-polyglot"]
+	path = vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot
+[submodule "vim-pug"]
+	path = vim-pug
+	url = git@github.com:digitaltoad/vim-pug
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git@github.com:tpope/vim-surround
+[submodule "vim-terraform"]
+	path = vim-terraform
+	url = git@github.com:hashivim/vim-terraform
+[submodule "vim-terraform-completion"]
+	path = vim-terraform-completion
+	url = git@github.com:juliosueiras/vim-terraform-completion
+[submodule "vimtex"]
+	path = vimtex
+	url = git@github.com:lervag/vimtex
