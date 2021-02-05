@@ -82,3 +82,6 @@
 [submodule "vimtex"]
 	path = vimtex
 	url = git@github.com:lervag/vimtex
+[submodule "vim-git"]
+	path = vim-git
+	url = git@github.com:tpope/vim-git
